@@ -2,7 +2,7 @@
 Where are stocked minecraft tokens?
 
 
-`
+```
 C:\Users\%USERNAME%\intentlauncher\launcherconfig (Intent account token)
 
 C:\Users\%USERNAME%\.lunarclient\settings\game\accounts.json (Lunar client accounts)
@@ -24,4 +24,4 @@ C:\Users\%USERNAME%\AppData\Roaming\.minecraft\launcher_accounts_microsoft_store
 C:\Users\%USERNAME%\AppData\Roaming\.minecraft\Rise\alts.txt (Rise client alts)
 
 C:\Users\%USERNAME%\intentlauncher\Rise\alts.txt (Rise clients alts but from the intent folder)
-`
+```
