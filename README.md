@@ -1,6 +1,8 @@
 # Minecraft-accounts-paths
 Where are stocked minecraft tokens?
 
+**__This is for a windows computer !!__**
+
 
 ```
 C:\Users\%USERNAME%\intentlauncher\launcherconfig (Intent account token)
