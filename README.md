@@ -26,4 +26,6 @@ C:\Users\%USERNAME%\AppData\Roaming\.minecraft\launcher_accounts_microsoft_store
 C:\Users\%USERNAME%\AppData\Roaming\.minecraft\Rise\alts.txt (Rise client alts)
 
 C:\Users\%USERNAME%\intentlauncher\Rise\alts.txt (Rise clients alts but from the intent folder)
+
+C:\Users\%USERNAME%\AppData\Roaming\paladium-group (Paladium launcher accounts - Obfuscated)
 ```
